@@ -1,4 +1,4 @@
-A determined, hard-working, and detail-oriented third-year Computer Science and Engineering student at the University POLITEHNICA of Bucharest. Passionate about software development, with strong skills in C and Java, as well as hands-on experience in UNIX/Linux systems. Enhancing my skills in full-stack web application development to create efficient and adaptable web solutions. Known for excellent problem-solving abilities, teamwork, and communication skills, with a commitment to continuous learning and tackling complex challenges.
+A determined, hard-working, and detail-oriented Computer Science and Engineering student at the University POLITEHNICA of Bucharest. Passionate about software development, with strong skills in C and Java, as well as hands-on experience in UNIX/Linux systems. Enhancing my skills in full-stack web application development to create efficient and adaptable web solutions. Known for excellent problem-solving abilities, teamwork, and communication skills, with a commitment to continuous learning and tackling complex challenges.
 
 ---
 
